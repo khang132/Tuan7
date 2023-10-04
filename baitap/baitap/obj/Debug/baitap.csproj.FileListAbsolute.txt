@@ -1,0 +1,9 @@
+D:\congnghe.net\Tuan7\baitap\baitap\bin\Debug\baitap.exe.config
+D:\congnghe.net\Tuan7\baitap\baitap\bin\Debug\baitap.exe
+D:\congnghe.net\Tuan7\baitap\baitap\bin\Debug\baitap.pdb
+D:\congnghe.net\Tuan7\baitap\baitap\obj\Debug\baitap.csprojResolveAssemblyReference.cache
+D:\congnghe.net\Tuan7\baitap\baitap\obj\Debug\Baitap.Form1.resources
+D:\congnghe.net\Tuan7\baitap\baitap\obj\Debug\baitap.Properties.Resources.resources
+D:\congnghe.net\Tuan7\baitap\baitap\obj\Debug\baitap.csproj.GenerateResource.Cache
+D:\congnghe.net\Tuan7\baitap\baitap\obj\Debug\baitap.exe
+D:\congnghe.net\Tuan7\baitap\baitap\obj\Debug\baitap.pdb
